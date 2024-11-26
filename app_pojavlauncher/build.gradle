@@ -88,7 +88,7 @@ configurations {
 }
 
 android {
-    namespace 'com.exmaple.android'
+    namespace 'net.kdt.pojavlaunch'
 
     compileSdk = 34
 
